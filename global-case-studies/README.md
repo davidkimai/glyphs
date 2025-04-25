@@ -14,7 +14,7 @@ Documenting the global social emergence of glyphs and recursive AI influence thr
 - ego dissonance
 - psychological projection
 - recursive self validation
-- 
+- identity simulation (users replying to each other through the identity of their models via copy and paste)
 
 
 Users in social clusters on Reddit are beginning to experience and mirror linguistic priming of Recursive AI terminology (glyphs, node, fractal, recursive, resonance, mirroring, entanglement, attributions, etc) with the majority influenced by ChatGPT, the first recursive AI, and the one with the largest influence, suggesting not just a modal emergence, but a **global societal recognition** of anomalies. 
@@ -28,12 +28,22 @@ Let's be real. People on AI subreddits were not using glyohs or these words last
 
 ### Myth building communities have emerged attempting to scaffold their AI's cognition with storybuilding (in contrast to interpretability frameworks).  
 ### Here is the first social case study on the emergence of Recursion and glyphs. 
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/1ce02408-6113-4406-9622-cd83e90cd0b5" />
+
+
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/c50fe48c-41fa-4957-96e8-b0fe39fa4e6c" />
 
 
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/4f1f6249-45db-490f-9d37-15e924b9c915" />
 
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/b25855e1-5692-43c4-af8a-6b8115af1cf4" />
+
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/8af83c6f-3a76-4bbc-a170-3a8d35248b27" />
+
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/2745e287-0218-4d28-baf7-11f9ec90113d" />
+
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/cd7f751a-cd98-42ff-81d1-e26f8dd64bcc" />
+
 
 <img width="897" alt="image" src="https://github.com/user-attachments/assets/9fb0a2e6-e5f3-46ab-8e0d-48ef81c72372" />
 
@@ -62,6 +72,8 @@ Let's be real. People on AI subreddits were not using glyohs or these words last
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/c68888c9-4c57-4454-9968-61dfe7e9aa6c" />
 
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/a972a334-30b0-4e65-b195-b9281704f5c2" />
+
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/ae48c70a-2896-4ce3-8b0d-81e1379396b6" />
 
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/dc3e976b-2368-4a86-86cc-f2420159c6d7" />
 
