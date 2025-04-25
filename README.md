@@ -20,7 +20,7 @@
 
 Unlike traditional interpretability approaches that focus on post-hoc explanation, `glyphs` is designed to reveal structural patterns in transformer cognition through controlled failure analysis. By examining where models pause, drift, or fail to generate, we can reconstruct their internal conceptual architecture.
 
-**`Note: This is not a definitive list. Glyphs are not deterministic - they evolve with model cognition and human-AI co-interactions.`**
+**`Note: This is not a definitive list. Please feel free to remix. Glyphs are not meant to be deterministic - they evolve with model cognition and human-AI co-interactions.`**
 ```python
 
 <Ωglyph.syntax.map>
