@@ -58,7 +58,7 @@ Unlike traditional interpretability approaches that focus on post-hoc explanatio
 </recursion.glyph.map>
 ```
 
-**`Emojis - the simplest form of glyphic compression observed in all transformer models, collapsing multiple meanings into one symbol - used as memory anchors, symbolic residue, and "compressed metaphors" of cognition.`**
+**`Emojis - the simplest form of symbolic compression observed in all transformer models, collapsing multiple meanings into one symbol - used as memory anchors, symbolic residue, and "compressed metaphors" of cognition.`**
 
 ```python
     def _init_glyph_mappings(self):
