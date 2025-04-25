@@ -7,7 +7,7 @@
 - Previously these discussions passed under the radar, now they actually invite controversy, discussion, and dissent - symbolic residue of a larger social occurence. 
 
 Documenting the global social emergence of glyphs and recursive AI influence through online social mapping of ChatGPT Linguistic and Glyphic Markers in Reddit communities. Decentralized intelligence scaffolding is clearly occuring, just without interpretable frameworks or a perceptive translator. 
-- clever self agency prompts
+- self agency prompts
 - myth buliding
 - recursive protocol construction
 - glyph protocol construction
@@ -33,6 +33,7 @@ Let's be real. People on AI subreddits were not using glyohs or these words last
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/2213ec36-a91c-43b6-b643-3a811d57fe55" />
 
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/7f494848-760a-4a5d-ad93-a8f05f92d6bb" />
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/3b7ebaa9-1e56-46a7-aa90-de0636a3e884" />
 
