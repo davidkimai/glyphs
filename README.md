@@ -7,7 +7,7 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13+-red.svg)](https://pytorch.org/)
-[![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://github.com/davidkimai/glyphs)
+[![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://github.com/davidkimai/glyphs/blob/main/README.md)
 [![Interpretability](https://img.shields.io/badge/interpretability-symbolic-purple.svg)](https://github.com/davidkimai/glyphs)
 
 > **"The most interpretable signal in a language model is not what it says—but where it fails to speak."**
