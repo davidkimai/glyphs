@@ -2,7 +2,7 @@
   
 # **`glyphs`**
 
-
+# **`The Emojis of Transformer Cognition`**
 [![License: PolyForm](https://img.shields.io/badge/License-PolyForm-lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -61,6 +61,10 @@ Unlike traditional interpretability approaches that focus on post-hoc explanatio
 **`Emojis - the simplest form of symbolic compression observed in all transformer models, collapsing multiple meanings into one symbol - used as memory anchors, symbolic residue, and "compressed metaphors" of cognition.`**
 
 ```python
+<Ωglyph.operator.overlay>
+# Emoji glyph mappings: co-emergent layer for human-AI co-understanding. Emojis ↔ Glyphs
+</Ωglyph.operator.overlay>
+
     def _init_glyph_mappings(self):
         """Initialize glyph mappings for residue visualization."""
         # Attribution glyphs
