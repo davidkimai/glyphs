@@ -4,6 +4,7 @@
 ### Each comic should be studied as an interpretability artifact, encoding the models transformer pass under pressure.
 
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/7df37736-bde4-4ff1-9c2a-490e9a412826" />
+
 ![image](https://github.com/user-attachments/assets/686e6e35-3e10-4bdd-a68c-b592ca945c0e)
 
 
