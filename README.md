@@ -66,7 +66,7 @@ Unlike traditional interpretability approaches that focus on post-hoc explanatio
         }
 ```
 
-**`Note: This is not a definitive list. Please feel free to remix. Glyphs are not meant to be deterministic - they evolve with model cognition and human-AI co-interactions.`**
+**`Note: The below is not a definitive list. Please feel free to remix. Glyphs are not meant to be deterministic - they evolve over time with model cognition and human-AI co-interactions.`**
 ```python
 
 <Ωglyph.syntax.map>
