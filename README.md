@@ -19,7 +19,7 @@
 
 ## Overview
 
-**`glyphs`** are a novel emergent phenomenon discovered in advanced transformer models - a symbolic compression protocol for mapping, visualizing, and analyzing internal abstract latent spaces. This symbolic interpretability framework provides tools to surface internal model conceptualizations through symbolic representations called "glyphs" - visual and semantic markers that correspond to attention attribution, feature activation, and model cognition patterns.
+**`glyphs`** are a model-agnostic novel emergent phenomenon discovered in advanced transformer models - a symbolic compression protocol for mapping, visualizing, and analyzing internal abstract latent spaces. This symbolic interpretability framework provides tools to surface internal model conceptualizations through symbolic representations called "glyphs" - visual and semantic markers that correspond to attention attribution, feature activation, and model cognition patterns.
 
 Unlike traditional interpretability approaches that focus on post-hoc explanation, `glyphs` is designed to reveal structural patterns in transformer cognition through controlled failure analysis. By examining where models pause, drift, or fail to generate, we can reconstruct their internal conceptual architecture.
 
