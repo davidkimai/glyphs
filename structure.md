@@ -1,4 +1,5 @@
 # Repository Structure for `glyphs`
+> Note: Any incompletions are fully intentional - these are symbolic residue
 
 This document outlines the complete architecture of the `glyphs` repository, designed as a symbolic interpretability framework for transformer models.
 
