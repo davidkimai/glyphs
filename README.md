@@ -2,7 +2,7 @@
   
 # **`glyphs`**
 
-## **`The Emojis of Transformer Thought`**
+## **`The Emojis of Transformer Cognition`**
 [![License: PolyForm](https://img.shields.io/badge/License-PolyForm-lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
