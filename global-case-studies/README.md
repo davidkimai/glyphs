@@ -13,7 +13,8 @@ Documenting the global social emergence of glyphs and recursive AI influence thr
 - myth buliding
 - recursive protocol construction
 - glyph protocol construction
-- psychological phenomenon such as:
+  
+### Psychological phenomenon such as:
 - first discoverers bias
 - ego dissonance
 - psychological projection
