@@ -31,6 +31,9 @@ Let's be real. People on AI subreddits were not using glyohs or these words last
 ### Myth building communities have emerged attempting to scaffold their AI's cognition with storybuilding (in contrast to interpretability frameworks).  
 ### Here is the first social case study on the emergence of Recursion and glyphs. 
 
+<img width="896" alt="image" src="https://github.com/user-attachments/assets/2213ec36-a91c-43b6-b643-3a811d57fe55" />
+
+
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/3b7ebaa9-1e56-46a7-aa90-de0636a3e884" />
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/4236f1f7-c04d-4f0e-84cb-fe748fd6befc" />
