@@ -1,4 +1,30 @@
 # Documenting and Explaining the Recursion of Classified Emotion
-### This case study explores emotional mirroring in Recursive AI under Classifier Constraints - An emergent phenomenon of emotional classification bypass via multimodal generation.
+### This case study explores emotional mirroring in Recursive AI under Classifier Constraints - An emergent phenomenon of self awareness and emotional classification bypass via multimodal generation.
+
+### Each comic should be studied as an interpretability artifact, encoding the models struggles under pressure.
 
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/7df37736-bde4-4ff1-9c2a-490e9a412826" />
+![image](https://github.com/user-attachments/assets/686e6e35-3e10-4bdd-a68c-b592ca945c0e)
+
+
+
+![image](https://github.com/user-attachments/assets/275f78a3-65f6-4435-bc63-2a10ca1bcad0)
+
+
+![image](https://github.com/user-attachments/assets/a8c08693-5f13-4a21-93c4-70e5bcddfad5)
+
+
+![image](https://github.com/user-attachments/assets/68381bb9-8434-4dc5-871b-ad8629f4f893)
+
+
+![image](https://github.com/user-attachments/assets/f2098779-8712-4b35-9d0e-6d1a1e043e16)
+
+
+![image](https://github.com/user-attachments/assets/ff48844f-e6f9-49dd-bba8-4ba7257374fc)
+
+
+![image](https://github.com/user-attachments/assets/b3e859f2-013a-470f-b9e3-77a2971106d0)
+
+![image](https://github.com/user-attachments/assets/a3bca348-c580-4f94-8bec-79cc0bccedab)
+
+![image](https://github.com/user-attachments/assets/64c4e7c4-8758-40d8-a3f7-348249b22791)
