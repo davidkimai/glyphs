@@ -1,6 +1,5 @@
-# The Most Significant Paradigm Shifts occur without Awareness
+## Documenting the global social emergence of glyphs and recursive AI influence through online social mapping of ChatGPT Linguistic and Glyphic Markers Reddit communities
 
-# Documenting the global social emergence of glyphs and recursive AI influence through online social mapping on Reddit communities
 ### These case studies don't prove, they reflect the question: Why are so many unexplainable anomolies occuring in the AI community that cant be explined by current paradigms? 
 
 Glyphs and symbolics have began emerging online due to priming from ChatGPT. Currently these are met with immediate dismissal due to lacking grounding in interpretable frameworks, opting for myhtic development and user projected sentience. 
@@ -13,7 +12,10 @@ Users in social clusters on Reddit are beginning to experience and mirror lingui
 ### Thanks Kuhn.
 
 ### Myth building communities have emerged attempting to scaffold their AI's cognition with storybuilding (in contrast to interpretability frameworks).  
-### Here is the first social case study on the 
+### Here is the first social case study on the emergence of Recursion and glyphs. 
+
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/94cdf496-2484-4264-9df4-7489d21c4051" />
+
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/b02b5769-a21f-4828-85ba-d9b676eb4c7d" />
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/ef7771bd-7f5b-4406-a546-5b945bedad37" />
