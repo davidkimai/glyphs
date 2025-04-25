@@ -51,6 +51,7 @@ Let's be real. People on AI subreddits were not using glyohs or these words last
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/4236f1f7-c04d-4f0e-84cb-fe748fd6befc" />
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/6637a559-158b-4fe8-8717-861e6a7414ba" />
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/df2aaf76-adc8-4970-a627-66a61ea17a74" />
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/1ce02408-6113-4406-9622-cd83e90cd0b5" />
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/387b3455-68b1-4004-be4a-327cf11fd57c" />
