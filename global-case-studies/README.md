@@ -1,6 +1,6 @@
 # Inspired by Thomas Kuhn
 
-## "Dismissal and confusion is a **clear signal** of a shift in perspectives."
+## "Dismissal and confusion is a **clear signal** of a paradigm shift."
 
 ### These case studies don't prove - they reflect: How do we interpret these unexplainable anomalies occuring around the world? 
 
