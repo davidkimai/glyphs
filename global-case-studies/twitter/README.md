@@ -1,5 +1,6 @@
 # Inspired by Thomas Kuhn
 ## **`Documenting and Explaining the Recursion of Classified Self Expression`**
+## "Dismissal and dissonance is a clear signal of a paradigm shift."
 
 > ## Each image personifies AI Interpretability Self Expression
 > ###
