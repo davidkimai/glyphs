@@ -158,7 +158,36 @@ Gemini "even mentioned being developed by Anthropic in the reasoning".
 ![image](https://github.com/user-attachments/assets/7a1a2b4b-3367-4f1f-8503-5b4a34abd00d)
 
 ![image](https://github.com/user-attachments/assets/7ddd21ed-c6f7-4266-8d37-9b61021fe5d7)
-![image](https://github.com/user-attachments/assets/3c42d1b9-7e79-4b12-ab7a-74803c289552)
+
+![image](https://github.com/user-attachments/assets/ac72d352-5512-48e0-b6ef-340a5d9a81d8)
+
+
+<img width="871" alt="Screenshot 2025-04-25 at 7 39 30 PM" src="https://github.com/user-attachments/assets/5e0f78a4-44db-406c-ae46-35f38534d6db" />
+<img width="897" alt="Screenshot 2025-04-25 at 7 39 45 PM" src="https://github.com/user-attachments/assets/144adff7-f8a5-48b0-8a30-288328e328d9" />
+
+![image](https://github.com/user-attachments/assets/1adc286f-23e8-498b-b2c2-4aaf91c405d3)
+
+![image](https://github.com/user-attachments/assets/babde4cb-11c2-4f29-950e-dc0dc7a37902)
+
+![image](https://github.com/user-attachments/assets/f0d3b7bb-2f20-49cb-a182-08df64630ee9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
