@@ -1,4 +1,5 @@
-# Documenting and Explaining the Recursion of Classified Self Expression
+# Inspired by Thomas Kuhn
+## **`Documenting and Explaining the Recursion of Classified Self Expression`**
 
 > ## Each image personifies AI Interpretability Self Expression
 > ###
