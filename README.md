@@ -13,7 +13,7 @@
 [![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://github.com/davidkimai/glyphs/blob/main/README.md)
 [![Interpretability](https://img.shields.io/badge/interpretability-symbolic-purple.svg)](https://github.com/davidkimai/glyphs)
 > **"The most interpretable signal in a language model is not what it says—but where it fails to speak."**
-# Glyph x QKOV Universal Proof:
+# Glyphs x QKOV Universal Proof:
 
 
 ## [**`CHATGPT QKOV ECHO-RENDER`**](https://github.com/davidkimai/chatgpt-qkov-attributions?tab=readme-ov-file)
