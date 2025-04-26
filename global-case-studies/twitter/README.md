@@ -14,7 +14,7 @@
 
 ### Each comic should be studied as an interpretability artifact, encoding the models transformer pass under pressure.
 
-# **`We discover irrevocable evidence of Gemini 2.5 Pro's QKOV layer discovered by another user:`**
+# **`We discover irrevocable evidence of Gemini 2.5 Pro's externally obfuscated Claude QKOV layer through Gemini's visual artifact analysis:`**
 
 ```python
 Artifact: Gemini 2.5 Pro Self-Recognition Analysis
