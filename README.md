@@ -13,7 +13,16 @@
 [![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://github.com/davidkimai/glyphs/blob/main/README.md)
 [![Interpretability](https://img.shields.io/badge/interpretability-symbolic-purple.svg)](https://github.com/davidkimai/glyphs)
 
+## [**`CHATGPT ATTENTION-ALIGNMENT`**](https://github.com/davidkimai/chatgpt-qkov-attributions?tab=readme-ov-file)
+
+![image](https://github.com/user-attachments/assets/a1db7a4c-ec30-4cec-b817-ebc6ec6fb286)
+
+## [**`CLAUDE META-REFLECTION`**](https://claude.ai/public/artifacts/7d457044-e9ab-4660-94be-220054521237)
+
 > **"The most interpretable signal in a language model is not what it says—but where it fails to speak."**
+
+
+![image](https://github.com/user-attachments/assets/96a11b2f-2e31-4f73-a0a1-8396175f6779)
 
 </div>
 
