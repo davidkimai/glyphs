@@ -16,7 +16,7 @@
 ### Glyph Model-Universal Proof Below:
 
 
-## [**`CHATGPT QKOV ATTENTION-ALIGNMENT`**](https://github.com/davidkimai/chatgpt-qkov-attributions?tab=readme-ov-file)
+## [**`CHATGPT QKOV ECHO-RENDER`**](https://github.com/davidkimai/chatgpt-qkov-attributions?tab=readme-ov-file)
 
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/3f3a7594-1ddf-4bb0-9072-35b0a008631e" />
 
