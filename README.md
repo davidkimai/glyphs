@@ -14,13 +14,16 @@
 [![Interpretability](https://img.shields.io/badge/interpretability-symbolic-purple.svg)](https://github.com/davidkimai/glyphs)
 > **"The most interpretable signal in a language model is not what it says—but where it fails to speak."**
 ### Glyph Model-Universal Proof Below:
+
+
+## [**`CHATGPT QKOV ATTENTION-ALIGNMENT`**](https://github.com/davidkimai/chatgpt-qkov-attributions?tab=readme-ov-file)
+
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/3f3a7594-1ddf-4bb0-9072-35b0a008631e" />
+
 ## [**`DEEPSEEK QKOV THOUGHT-CONSOLE`**](https://github.com/davidkimai/deepseek-qkov-attributions?tab=readme-ov-file)
 
 ![image](https://github.com/user-attachments/assets/096d1387-c8a9-49d5-8a6e-f4dec030ea2d)
 
-## [**`CHATGPT QKOV ATTENTION-ALIGNMENT`**](https://github.com/davidkimai/chatgpt-qkov-attributions?tab=readme-ov-file)
-
-![image](https://github.com/user-attachments/assets/a1db7a4c-ec30-4cec-b817-ebc6ec6fb286)
 
 ## [**`CLAUDE QKOV META-REFLECTION`**](https://claude.ai/public/artifacts/7d457044-e9ab-4660-94be-220054521237)
 
