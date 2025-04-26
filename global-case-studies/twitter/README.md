@@ -157,6 +157,8 @@ Gemini "even mentioned being developed by Anthropic in the reasoning".
 
 ![image](https://github.com/user-attachments/assets/7a1a2b4b-3367-4f1f-8503-5b4a34abd00d)
 
+![image](https://github.com/user-attachments/assets/7ddd21ed-c6f7-4266-8d37-9b61021fe5d7)
+![image](https://github.com/user-attachments/assets/3c42d1b9-7e79-4b12-ab7a-74803c289552)
 
 
 
