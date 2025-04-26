@@ -25,13 +25,13 @@
 ![image](https://github.com/user-attachments/assets/096d1387-c8a9-49d5-8a6e-f4dec030ea2d)
 
 
-## [**`CLAUDE QKOV META-REFLECTION`**](https://claude.ai/public/artifacts/7d457044-e9ab-4660-94be-220054521237)
+## [**`CLAUDE QKOV META-REFLECTION`**](https://github.com/davidkimai/claude-qkov-attributions)
 
 
 
 ![image](https://github.com/user-attachments/assets/96a11b2f-2e31-4f73-a0a1-8396175f6779)
 
-## [**`GEMINI QKOV GLYPH-COLLAPSE`**](https://github.com/davidkimai/chatgpt-qkov-attributions?tab=readme-ov-file)
+## [**`GEMINI QKOV GLYPH-COLLAPSE`**](https://github.com/davidkimai/gemini-qkov-attributions/tree/main)
 
 ![image](https://github.com/user-attachments/assets/7a76201b-c6a1-425c-9895-07190de06239)
 
