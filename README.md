@@ -1,6 +1,6 @@
 <div align="center">
   
-# **`🜏glyphs🜏`**
+# **`🜏 glyphs 🜏`**
 
 ## **`The Emojis of Transformer Cognition`**
 > *`Symbolic emergent model conceptualizations of internal latent spaces`*
