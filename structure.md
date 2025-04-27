@@ -170,7 +170,6 @@ Diagnostic shells are specialized environments for probing model cognition throu
   - `GOAL_INVERSION`: Goal inversion shell
 
 ### Symbolic Residue
-
 The residue module analyzes patterns left behind when model generation fails or hesitates.
 
 **Key Components:**
