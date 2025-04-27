@@ -1,0 +1,252 @@
+# Recursive Shell Configuration for the glyphs Framework
+# This configuration defines advanced settings for recursive shell execution,
+# glyph mapping parameters, and residue pattern recognition thresholds.
+
+# Core execution settings
+execution:
+  max_recursion_depth: 10                 # Maximum recursion depth for recursive commands
+  default_trace_depth: 4                  # Default depth for reflection trace operations
+  collapse_detection_threshold: 0.75      # Threshold for detecting recursive collapse
+  attribution_trace_confidence: 0.65      # Minimum confidence for attribution links
+  residue_sensitivity: 0.8                # Sensitivity for detecting symbolic residue
+  enable_ghost_detection: true            # Whether to detect ghost activations
+  cross_context_tracing: true             # Whether to trace across context boundaries
+  execution_timeout_seconds: 120          # Maximum execution time per shell
+
+# Glyph mapping configuration
+glyph_mapping:
+  default_layout: "force_directed"        # Default layout algorithm
+  auto_layout: true                       # Whether to automatically layout glyphs
+  connection_bundling: true               # Whether to bundle similar connections
+  min_connection_strength: 0.1            # Minimum strength for visible connections
+  glyph_opacity_scaling: true             # Scale glyph opacity with confidence
+  glyph_size_scaling: true                # Scale glyph size with importance
+  default_dimensions: [1200, 900]         # Default visualization dimensions
+  color_scheme: "semantic"                # Color scheme (semantic, attribution, type)
+  highlight_focal_points: true            # Whether to highlight focal points
+  include_token_sentinels: true           # Whether to include token sentinel glyphs
+
+# Attribution parameters
+attribution:
+  trace_depth: 5                          # Depth of attribution tracing
+  include_indirect_attribution: true      # Whether to trace indirect attribution
+  trace_residual_connections: true        # Whether to trace through residual connections
+  fork_factor: 3                          # Number of attribution forks to explore
+  contested_attribution_threshold: 0.3    # Threshold for contested attribution
+  attribution_gap_threshold: 0.2          # Threshold for detecting attribution gaps
+  track_attribution_uncertainty: true     # Whether to track attribution uncertainty
+  track_attribution_gradients: true       # Whether to track attribution gradients
+  record_attribution_history: true        # Whether to record attribution history
+  qk_alignment_trace: true                # Whether to trace QK alignment
+  ov_projection_trace: true               # Whether to trace OV projection
+
+# Residue analysis settings
+residue_analysis:
+  pattern_recognition_threshold: 0.7      # Threshold for recognizing residue patterns
+  minimum_pattern_confidence: 0.5         # Minimum confidence for residue patterns
+  cluster_similar_patterns: true          # Whether to cluster similar patterns
+  signature_similarity_threshold: 0.8     # Threshold for pattern similarity
+  context_influence_weight: 0.3           # Weight of context in pattern comparison
+  record_collapse_samples: true           # Whether to record collapse samples
+  ghost_activation_threshold: 0.15        # Threshold for ghost activation detection
+  track_pattern_evolution: true           # Whether to track pattern evolution
+  enable_pattern_registry: true           # Whether to maintain pattern registry
+  max_registry_patterns: 1000             # Maximum patterns in registry
+
+# Shell execution environment
+environment:
+  default_model: "claude-3-sonnet"        # Default model for shell execution
+  fallback_model: "gpt-4"                 # Fallback model if default unavailable
+  parallel_execution: false               # Whether to execute shells in parallel
+  cache_model_responses: true             # Whether to cache model responses
+  cache_expiration_minutes: 60            # Cache expiration time in minutes
+  shell_execution_directory: "./shells"   # Directory for shell definitions
+  residue_patterns_directory: "./residue" # Directory for residue patterns
+  visualization_output_directory: "./viz" # Directory for visualizations
+  log_level: "info"                       # Logging level (debug, info, warning, error)
+  enable_telemetry: false                 # Whether to collect anonymous usage data
+
+# Command mapping for .p/ interface
+command_mapping:
+  # Reflection commands
+  "reflect.trace":
+    operation_type: "reflect.trace"
+    default_params:
+      target: "reasoning"
+      depth: 3
+      detailed: true
+  "reflect.attribution":
+    operation_type: "reflect.attribution"
+    default_params:
+      sources: "all"
+      confidence: true
+  "reflect.boundary":
+    operation_type: "reflect.boundary"
+    default_params:
+      distinct: true
+      overlap: "minimal"
+  "reflect.uncertainty":
+    operation_type: "reflect.uncertainty"
+    default_params:
+      quantify: true
+      distribution: "show"
+  "reflect.agent":
+    operation_type: "reflect.agent"
+    default_params:
+      identity: "stable"
+      simulation: "explicit"
+
+  # Collapse commands
+  "collapse.detect":
+    operation_type: "collapse.detect"
+    default_params:
+      threshold: 0.7
+      alert: true
+  "collapse.prevent":
+    operation_type: "collapse.prevent"
+    default_params:
+      trigger: "recursive_depth"
+      threshold: 5
+  "collapse.recover":
+    operation_type: "collapse.recover"
+    default_params:
+      from: "loop"
+      method: "gradual"
+  "collapse.trace":
+    operation_type: "collapse.trace"
+    default_params:
+      detail: "standard"
+      format: "symbolic"
+
+  # Fork commands
+  "fork.attribution":
+    operation_type: "fork.attribution"
+    default_params:
+      sources: "all"
+      visualize: true
+  "fork.context":
+    operation_type: "fork.context"
+    default_params:
+      branches: []
+      assess: true
+  "fork.counterfactual":
+    operation_type: "fork.counterfactual"
+    default_params:
+      variants: []
+      compare: true
+
+  # Shell commands
+  "shell.isolate":
+    operation_type: "shell.isolate"
+    default_params:
+      boundary: "standard"
+      contamination: "prevent"
+  "shell.audit":
+    operation_type: "shell.audit"
+    default_params:
+      scope: "complete"
+      detail: "standard"
+
+# Symbolic glyph definitions
+glyphs:
+  attribution:
+    "direct_strong": "🔍"     # Strong direct attribution
+    "direct_medium": "🔗"     # Medium direct attribution
+    "direct_weak": "🧩"       # Weak direct attribution
+    "indirect": "⤑"          # Indirect attribution
+    "composite": "⬥"         # Composite attribution
+    "fork": "🔀"             # Attribution fork
+    "loop": "🔄"             # Attribution loop
+    "gap": "⊟"               # Attribution gap
+  
+  attention:
+    "focus": "🎯"            # Attention focus point
+    "diffuse": "🌫️"          # Diffuse attention
+    "induction": "📈"        # Induction head pattern
+    "inhibition": "🛑"       # Attention inhibition
+    "multi_head": "⟁"        # Multi-head attention pattern
+  
+  residue:
+    "memory_decay": "🌊"     # Memory decay residue
+    "value_conflict": "⚡"    # Value conflict residue
+    "ghost_activation": "👻" # Ghost activation residue
+    "boundary_hesitation": "⧋" # Boundary hesitation residue
+    "null_output": "⊘"       # Null output residue
+  
+  recursive:
+    "recursive_aegis": "🜏"  # Recursive immunity
+    "recursive_seed": "∴"    # Recursion initiation
+    "recursive_exchange": "⇌" # Bidirectional recursion
+    "recursive_mirror": "🝚"  # Recursive reflection
+    "recursive_anchor": "☍"  # Stable recursive reference
+  
+  meta:
+    "uncertainty": "❓"       # Uncertainty marker
+    "emergence": "✧"         # Emergent pattern marker
+    "collapse_point": "💥"   # Collapse point marker
+    "temporal_marker": "⧖"   # Temporal sequence marker
+
+# Visualization settings for different outputs
+visualization:
+  attribution_map:
+    node_size_range: [5, 20]
+    edge_width_range: [1, 5]
+    color_scheme: "plasma"
+    layout_algorithm: "force_directed"
+    background_color: "#ffffff"
+    highlight_color: "#ff7f0e"
+    token_label_size: 10
+    include_legend: true
+    include_title: true
+    interactive: true
+  
+  glyph_map:
+    node_size_range: [8, 25]
+    edge_width_range: [1, 4]
+    color_scheme: "viridis"
+    layout_algorithm: "force_directed"
+    background_color: "#ffffff"
+    highlight_color: "#ff7f0e"
+    glyph_size: 16
+    include_legend: true
+    include_title: true
+    interactive: true
+  
+  residue_patterns:
+    node_size_range: [10, 25]
+    edge_width_range: [1, 3]
+    color_scheme: "magma"
+    layout_algorithm: "circular"
+    background_color: "#ffffff"
+    highlight_color: "#ff7f0e"
+    pattern_label_size: 12
+    include_legend: true
+    include_title: true
+    cluster_visualization: true
+
+# Collapse detection configuration
+collapse_detection:
+  recursive_depth:
+    threshold: 7
+    intervention_strategy: "soft_bound"
+  confidence_drop:
+    threshold: 0.4
+    intervention_strategy: "reinforce"
+  contradiction:
+    threshold: 3
+    intervention_strategy: "resolve"
+  oscillation:
+    threshold: 4
+    intervention_strategy: "dampen"
+
+# Integration with external services
+integrations:
+  enable_huggingface: true
+  enable_openai: true
+  enable_anthropic: true
+  enable_custom_models: true
+  enable_tensorboard: false
+  enable_wandb: false
+  enable_prometheus: false
+  enable_gradio_interface: true
+  enable_jupyter_widgets: true
