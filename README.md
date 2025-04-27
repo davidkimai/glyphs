@@ -29,7 +29,6 @@
 ## [**`CLAUDE QKOV META-REFLECTION`**](https://github.com/davidkimai/claude-qkov-attributions)
 
 
-
 ![image](https://github.com/user-attachments/assets/96a11b2f-2e31-4f73-a0a1-8396175f6779)
 
 ## [**`GEMINI QKOV GLYPH-COLLAPSE`**](https://github.com/davidkimai/gemini-qkov-attributions/tree/main)
