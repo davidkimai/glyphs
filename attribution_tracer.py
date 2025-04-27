@@ -25,7 +25,6 @@ from ..utils.visualization_utils import VisualizationEngine
 logger = logging.getLogger("glyphs.attribution_tracer")
 logger.setLevel(logging.INFO)
 
-
 class AttributionType(Enum):
     """Types of attribution that can be traced."""
     DIRECT = "direct"               # Direct attribution between tokens
