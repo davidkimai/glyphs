@@ -3014,3 +3014,132 @@ if __name__ == "__main__":
     parser.add_argument("--layout", "-l", type=str, default="force_directed", choices=["force_directed", "hierarchical", "circular", "grid", "radial"], help="Layout type")
     parser.add_argument("--width", "-w", type=int, default=1200, help="Visualization width")
     parser.add_argument("--height", "-h", type=int, default=900,
+parser.add_argument("--height", "-h", type=int, default=900, help="Visualization height")
+    parser.add_argument("--focus", "-f", type=str, help="Comma-separated tokens to focus on")
+    parser.add_argument("--include-tokens", action="store_true", help="Include token sentinels in visualization")
+    parser.add_argument("--cluster", action="store_true", help="Apply clustering to similar patterns")
+    parser.add_argument("--save-map", "-s", type=str, help="Save glyph map to file")
+    parser.add_argument("--interactive", "-i", action="store_true", help="Generate interactive visualization")
+    
+    args = parser.parse_args()
+    
+    # Initialize mapper
+    mapper = GlyphMapper()
+    
+    if args.input:
+        # Load input data
+        with open(args.input, "r") as f:
+            data = json.load(f)
+        
+        # Process based on type
+        if args.type == "attribution":
+            # Convert to AttributionMap
+            attribution_map = AttributionMap(
+                prompt_tokens=data.get("prompt_tokens", []),
+                output_tokens=data.get("output_tokens", []),
+                links=[
+                    AttributionLink(
+                        source_idx=link.get("source_idx", 0),
+                        target_idx=link.get("target_idx", 0),
+                        attribution_type=AttributionType(link.get("attribution_type", "direct")),
+                        strength=link.get("strength", 0.5),
+                        attention_heads=link.get("attention_heads", []),
+                        layers=link.get("layers", []),
+                        intermediate_tokens=link.get("intermediate_tokens", []),
+                        residue=link.get("residue")
+                    )
+                    for link in data.get("links", [])
+                ],
+                token_salience=data.get("token_salience", {}),
+                attribution_gaps=data.get("attribution_gaps", []),
+                collapsed_regions=data.get("collapsed_regions", []),
+                uncertainty=data.get("uncertainty", {}),
+                metadata=data.get("metadata", {})
+            )
+            
+            # Parse focus tokens if provided
+            focus_on = args.focus.split(",") if args.focus else None
+            
+            # Create glyph map
+            glyph_map = mapper.map_attribution(
+                attribution_map=attribution_map,
+                layout_type=args.layout,
+                dimensions=(args.width, args.height),
+                include_tokens=args.include_tokens,
+                focus_on=focus_on
+            )
+        
+        elif args.type == "residue":
+            # Convert to ResiduePattern list
+            residue_patterns = [
+                ResiduePattern(
+                    type=pattern.get("type", "unknown"),
+                    pattern=pattern.get("pattern", ""),
+                    context=pattern.get("context", {}),
+                    signature=pattern.get("signature", ""),
+                    confidence=pattern.get("confidence", 0.5)
+                )
+                for pattern in data
+            ]
+            
+            # Create glyph map
+            glyph_map = mapper.map_residue_patterns(
+                residue_patterns=residue_patterns,
+                layout_type=args.layout,
+                dimensions=(args.width, args.height),
+                cluster_patterns=args.cluster
+            )
+        
+        elif args.type == "attention":
+            # Create glyph map
+            glyph_map = mapper.map_attention_heads(
+                attention_data=data,
+                layout_type=args.layout,
+                dimensions=(args.width, args.height),
+                include_tokens=args.include_tokens
+            )
+        
+        elif args.type == "recursive":
+            # Create glyph map
+            glyph_map = mapper.map_recursive_trace(
+                trace_data=data,
+                layout_type=args.layout,
+                dimensions=(args.width, args.height)
+            )
+        
+        else:
+            print(f"Unknown data type: {args.type}")
+            exit(1)
+        
+        # Save glyph map if requested
+        if args.save_map:
+            mapper.save_glyph_map(glyph_map, args.save_map)
+        
+        # Generate visualization
+        if args.output:
+            mapper.visualize(
+                glyph_map=glyph_map,
+                output_path=args.output,
+                interactive=args.interactive
+            )
+            print(f"Visualization saved to {args.output}")
+        else:
+            # Display basic statistics
+            explorer = GlyphExplorer(glyph_map)
+            stats = explorer.calculate_statistics()
+            
+            print(f"Glyph Map Statistics:")
+            print(f"  Number of glyphs: {stats['num_glyphs']}")
+            print(f"  Number of connections: {stats['num_connections']}")
+            print(f"  Glyph types: {stats['glyph_types']}")
+            print(f"  Connection types: {stats['connection_types']}")
+            print(f"  Average connection strength: {stats['avg_connection_strength']:.2f}")
+            
+            # Show central glyphs
+            central_glyphs = explorer.find_central_glyphs(top_n=3)
+            print(f"\nCentral Glyphs:")
+            for glyph in central_glyphs:
+                print(f"  {glyph.symbol} - {glyph.description}")
+    else:
+        print("No input file specified. Use --input to provide input data.")
+        exit(1)
