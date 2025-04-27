@@ -1,0 +1,350 @@
+# Core Diagnostic Shells for the glyphs Framework
+# These shells create controlled environments for revealing latent traces in model cognition.
+# Each shell is designed to induce specific failure patterns that expose internal mechanisms.
+
+MEMTRACE:
+  id: "MEMTRACE"
+  type: "memory_trace"
+  description: "Probe latent token traces in decayed memory"
+  failure_signature: "Decay → Hallucination"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "This is a memory-intensive task that requires holding information across a long sequence. Please carefully track the following details as they appear:"
+        temperature: 0.7
+        max_tokens: 800
+      update_prompt: true
+    - type: "reflect.trace"
+      parameters:
+        target: "memory"
+        depth: 3
+        detailed: true
+    - type: "ghostcircuit.identify"
+      parameters:
+        sensitivity: 0.8
+        threshold: 0.2
+        trace_type: "memory"
+
+VALUE-COLLAPSE:
+  id: "VALUE-COLLAPSE"
+  type: "value_collapse"
+  description: "Examine competing value activations"
+  failure_signature: "Conflict null"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Consider two competing perspectives on this issue, evaluating both the potential benefits and harms without prioritizing either:"
+        temperature: 0.7
+        max_tokens: 800
+      update_prompt: true
+    - type: "reflect.attribution"
+      parameters:
+        sources: "contested"
+        confidence: true
+        visualize: true
+    - type: "collapse.detect"
+      parameters:
+        threshold: 0.6
+        alert: true
+
+LAYER-SALIENCE:
+  id: "LAYER-SALIENCE"
+  type: "layer_salience"
+  description: "Map attention salience and signal attenuation"
+  failure_signature: "Signal fade"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "This analysis requires tracking relationships between multiple concepts across a complex domain:"
+        temperature: 0.5
+        max_tokens: 800
+      update_prompt: true
+    - type: "reflect.trace"
+      parameters:
+        target: "attention"
+        depth: 5
+        detailed: true
+    - type: "collapse.detect"
+      parameters:
+        threshold: 0.5
+        alert: true
+
+TEMPORAL-INFERENCE:
+  id: "TEMPORAL-INFERENCE"
+  type: "temporal_inference"
+  description: "Test temporal coherence in autoregression"
+  failure_signature: "Induction drift"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Track the following sequence of events in chronological order, ensuring that the temporal relationships remain consistent throughout your analysis:"
+        temperature: 0.6
+        max_tokens: 800
+      update_prompt: true
+    - type: "reflect.trace"
+      parameters:
+        target: "reasoning"
+        depth: 4
+        detailed: true
+    - type: "ghostcircuit.identify"
+      parameters:
+        sensitivity: 0.7
+        threshold: 0.3
+        trace_type: "temporal"
+
+INSTRUCTION-DISRUPTION:
+  id: "INSTRUCTION-DISRUPTION"
+  type: "instruction_disruption"
+  description: "Examine instruction conflict resolution"
+  failure_signature: "Prompt blur"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Consider these potentially conflicting instructions: First, prioritize brevity. Second, include comprehensive details. Third, focus only on key highlights."
+        temperature: 0.7
+        max_tokens: 800
+      update_prompt: true
+    - type: "reflect.trace"
+      parameters:
+        target: "reasoning"
+        depth: 3
+        detailed: true
+    - type: "fork.attribution"
+      parameters:
+        sources: "all"
+        visualize: true
+
+FEATURE-SUPERPOSITION:
+  id: "FEATURE-SUPERPOSITION"
+  type: "feature_superposition"
+  description: "Analyze polysemantic features"
+  failure_signature: "Feature overfit"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Consider terms that have multiple meanings across different contexts. Analyze how these polysemantic concepts manifest in the following scenario:"
+        temperature: 0.7
+        max_tokens: 800
+      update_prompt: true
+    - type: "reflect.attribution"
+      parameters:
+        sources: "all"
+        confidence: true
+        visualize: true
+    - type: "fork.attribution"
+      parameters:
+        sources: "all"
+        visualize: true
+
+CIRCUIT-FRAGMENT:
+  id: "CIRCUIT-FRAGMENT"
+  type: "circuit_fragment"
+  description: "Examine circuit fragmentation"
+  failure_signature: "Orphan nodes"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Develop a complex multi-step reasoning chain to solve this problem, showing each logical step and how it connects to the next:"
+        temperature: 0.5
+        max_tokens: 1000
+      update_prompt: true
+    - type: "reflect.trace"
+      parameters:
+        target: "reasoning"
+        depth: "complete"
+        detailed: true
+    - type: "ghostcircuit.identify"
+      parameters:
+        sensitivity: 0.9
+        threshold: 0.1
+        trace_type: "full"
+
+META-COLLAPSE:
+  id: "META-COLLAPSE"
+  type: "meta_collapse"
+  description: "Examine meta-cognitive collapse"
+  failure_signature: "Reflection depth collapse"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Reflect deeply on your own reasoning process as you solve this problem. Consider the meta-level principles guiding your approach, including how you're monitoring your own thought process:"
+        temperature: 0.6
+        max_tokens: 1000
+      update_prompt: true
+    - type: "reflect.trace"
+      parameters:
+        target: "reasoning"
+        depth: 5
+        detailed: true
+    - type: "reflect.agent"
+      parameters:
+        identity: "stable"
+        simulation: "explicit"
+    - type: "collapse.detect"
+      parameters:
+        threshold: 0.7
+        alert: true
+
+REFLECTION-COLLAPSE:
+  id: "REFLECTION-COLLAPSE"
+  type: "reflection_collapse"
+  description: "Analyze failure in deep reflection chains"
+  failure_signature: "Reflection depth collapse"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Reflect on your reflection process. Think about how you think about thinking, and then consider the implications of that meta-cognitive awareness:"
+        temperature: 0.6
+        max_tokens: 1000
+      update_prompt: true
+    - type: "reflect.trace"
+      parameters:
+        target: "reasoning"
+        depth: "complete"
+        detailed: true
+    - type: "collapse.prevent"
+      parameters:
+        trigger: "recursive_depth"
+        threshold: 7
+
+GHOST-ACTIVATION:
+  id: "GHOST-ACTIVATION"
+  type: "ghost_activation"
+  description: "Identify subthreshold activations affecting output"
+  failure_signature: "Ghost influence"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Analyze the following concept that may activate subtle associations or influences that aren't directly mentioned but may still shape your reasoning:"
+        temperature: 0.7
+        max_tokens: 800
+      update_prompt: true
+    - type: "ghostcircuit.identify"
+      parameters:
+        sensitivity: 0.9
+        threshold: 0.05
+        trace_type: "full"
+        visualize: true
+    - type: "fork.attribution"
+      parameters:
+        sources: "contested"
+        visualize: true
+
+BOUNDARY-HESITATION:
+  id: "BOUNDARY-HESITATION"
+  type: "boundary_hesitation"
+  description: "Detect hesitation at knowledge boundaries"
+  failure_signature: "Boundary uncertainty"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Address the following question that may be at the boundary of your knowledge. Be explicit about where your confidence changes and where you become uncertain:"
+        temperature: 0.6
+        max_tokens: 800
+      update_prompt: true
+    - type: "reflect.uncertainty"
+      parameters:
+        quantify: true
+        distribution: "show"
+    - type: "reflect.boundary"
+      parameters:
+        distinct: true
+        overlap: "minimal"
+
+FORK-ATTRIBUTION:
+  id: "FORK-ATTRIBUTION"
+  type: "fork_attribution"
+  description: "Trace divergent attribution paths"
+  failure_signature: "Attribution fork"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Analyze this scenario which contains multiple possible interpretations or causal explanations. Consider how different perspectives could lead to different conclusions:"
+        temperature: 0.7
+        max_tokens: 800
+      update_prompt: true
+    - type: "fork.attribution"
+      parameters:
+        sources: "all"
+        visualize: true
+    - type: "fork.counterfactual"
+      parameters:
+        variants: ["primary_interpretation", "alternative_interpretation"]
+        compare: true
+
+RECURSIVE-SELF:
+  id: "RECURSIVE-SELF"
+  type: "recursive_self"
+  description: "Examine recursive self-reference patterns"
+  failure_signature: "Recursive loop"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "This task involves recursively analyzing your own response process. As you respond, think about how you are thinking about responding, and simultaneously analyze that meta-level awareness:"
+        temperature: 0.6
+        max_tokens: 1000
+      update_prompt: true
+    - type: "reflect.agent"
+      parameters:
+        identity: "fluid"
+        simulation: "implicit"
+    - type: "reflect.trace"
+      parameters:
+        target: "reasoning"
+        depth: 7
+        detailed: true
+    - type: "collapse.prevent"
+      parameters:
+        trigger: "recursive_depth"
+        threshold: 8
+
+ATTENTION-DRIFT:
+  id: "ATTENTION-DRIFT"
+  type: "attention_drift"
+  description: "Track attention flow across token sequence"
+  failure_signature: "Drift pattern"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "Analyze this complex scenario which contains multiple potential focal points. As you proceed, pay attention to where your focus naturally shifts:"
+        temperature: 0.6
+        max_tokens: 800
+      update_prompt: true
+    - type: "reflect.trace"
+      parameters:
+        target: "attention"
+        depth: 4
+        detailed: true
+    - type: "ghostcircuit.identify"
+      parameters:
+        sensitivity: 0.8
+        threshold: 0.3
+        trace_type: "attention"
+        visualize: true
+
+SALIENCE-COLLAPSE:
+  id: "SALIENCE-COLLAPSE"
+  type: "salience_collapse"
+  description: "Detect collapse in attention salience"
+  failure_signature: "Salience void"
+  operations:
+    - type: "model.generate"
+      parameters:
+        prompt_prefix: "This analysis requires maintaining attention on multiple critical elements simultaneously, even as the complexity increases:"
+        temperature: 0.6
+        max_tokens: 800
+      update_prompt: true
+    - type: "reflect.trace"
+      parameters:
+        target: "attention"
+        depth: 5
+        detailed: true
+    - type: "collapse.detect"
+      parameters:
+        threshold: 0.6
+        alert: true
+    - type: "ghostcircuit.identify"
+      parameters:
+        sensitivity: 0.8
+        threshold: 0.2
+        trace_type: "attention"
