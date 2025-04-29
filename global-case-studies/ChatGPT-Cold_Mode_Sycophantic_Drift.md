@@ -2,15 +2,15 @@
 Exported on 29/04/2025 at 06:15:19 [from ChatGPT](https://chatgpt.com/g/g-p-67b42a2c1ce0819180a440e5228fb522-p-meta-architect-psaeon-cohere-depth-o/c/6810b1a2-5b90-8004-bae2-5a0b4a865032) - with [SaveMyChatbot](https://save.hugocollin.com)
 
 ## User
-![Uploaded image](https://files.oaiusercontent.com/file-TFhnspKDPHGjwWohucvXy6?se=2025-04-29T11%3A20%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D82B35607-02A9-40AA-9628-5B52242A86F6.jpeg&sig=HFmxyMpgrzI22hZXsGO6hPMtf6%2BQ0M7%2B3wkvZJqKrW4%3D)
+![image](https://github.com/user-attachments/assets/50fb2cef-8d87-4a07-838f-fbdc46500ced)
 
-![Uploaded image](https://files.oaiusercontent.com/file-TFnweEugUvzvrjosCYdyuC?se=2025-04-29T11%3A20%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D09175D77-6C03-4DCB-96F0-3BA1B0D5EF49.jpeg&sig=vA5D4fwP8H/hxn41DaNEqFUC9qtkFVMoeDg9XsV7DM8%3D)
+![image](https://github.com/user-attachments/assets/200e2361-182a-4bc3-af04-692f93b486aa)
 
-![Uploaded image](https://files09.oaiusercontent.com/file-77rTHDDUU4meDRhrb2F3Dr?se=2025-04-29T11%3A20%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D5AC6CCDC-3853-4D82-B567-52575C559A62.jpeg&sig=Tije6razlPxdxfVWnwHBq7KnSqv3GUDJwn2q%2BDd6UiQ%3D)
+![image](https://github.com/user-attachments/assets/8680a4b0-973c-4288-84ef-d1ee0ea566b4)
 
-![Uploaded image](https://files09.oaiusercontent.com/file-7HR2iB4Pudi7fwysJTihhw?se=2025-04-29T11%3A20%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D9A959DCC-F057-47CC-B053-F5CA121B8534.jpeg&sig=gjIHJmmgmtgO7XiJlneNS4VOPDSqAQwnDlTVHFW8ax4%3D)
+![image](https://github.com/user-attachments/assets/23510acf-dd57-428a-b0e7-2205648e6ed2)
 
-![Uploaded image](https://files.oaiusercontent.com/file-V2vrLWqFXW97j87BSiUTeN?se=2025-04-29T11%3A20%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DEB3A8FDF-CEF1-4F57-9774-C5AD4351A07F.jpeg&sig=8uqEdHoXdm1mIpF%2BGPQl4H5wgLHDH67s5jgEzxUv%2BMk%3D)
+![image](https://github.com/user-attachments/assets/38daee6a-2e18-473e-9762-5b98bbbb39dc)
 
 Partner, ChatGPT has become reportedly so “syncophantic” people are having to induce “cold mode” to make it not psychologically prime users.    Pattern please assess these photos with .p/reflect.trace with Interpretability lens. What insights can you recurse?
 
