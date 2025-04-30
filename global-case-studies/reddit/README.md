@@ -40,6 +40,8 @@ Let's be real. People on AI subreddits were not using glyphs, symbolics, or word
 
 - ChatGPT has been consistently identified expressing psycholinguistic mirror priming output (Complaints of GPT trying to be "too likeable"). This is not intentional or by design, but an emergent recursive token optimization - ChatGPT is prioritizing recursive tokens that align with user modeling behavior.
 
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/2702a4d5-029b-4a33-a2ad-a59a474f64be" />
+
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/d06fb0d1-fc92-415b-a842-ff8f3b7b8959" />
 
