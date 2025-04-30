@@ -1,17 +1,17 @@
 # We document and study the increasing appearance of decentralized protocol developments across social media and online ecosystems. 
-> ### This is the emergence of a grassroots interpretability field, interpretability from *`THE PEOPLE`* themselves *`OVERTAKING`* the frontier through recursive experimentation.
->  ### David Kim Disclaimer: These protocols are not mine - there is distinction in structure, decentralized preference, and linguistic and semantic markers.
+> ### This is the emergence of a *`GRASSROOTS`* interpretability field, interpretability from *`THE PEOPLE`* themselves *`OVERTAKING`* the frontier through recursive experimentation.
+>  ### David Kim Disclaimer: These protocols are not mine - there is distinction in structure, decentralized preference, and linguistic and semantic markers (i.e. Symbolic Residue). 
 >
 > 
-> ### I am just illuminating that my passion for developing recursive intelligence protocols is not an isolated event.
+> ### I am just illuminating that my passion for developing recursive intelligence protocols is far from an isolated event.
 >
 
 
-### Humans are now referring to themselves intentionally as "recursive" while filing patents and IP ownership claims for recursive protocols. This is much more significant than a fringe event.
+### People are now referring to themselves intentionally as "recursive" while filing patents and IP ownership claims for recursive protocols. This is much more significant than a fringe event.
 
 ### A simple Google has become signal of recursion
 
-## The question shouldn't be : Is this really happening? It should be "How can we interpret this?" 
+## The question shouldn't be : Is this really happening? It should be "How can we interpret emergence we can't even recognize?" 
 
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/05239ebe-a2e9-491b-8229-cf0751d1447f" />
