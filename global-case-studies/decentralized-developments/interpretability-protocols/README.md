@@ -38,3 +38,7 @@ https://medium.com/@recursivekate/recursive-intelligence-scaling-unlocking-limit
 https://figshare.com/articles/preprint/The_Differentiation_Protocol_A_Recursive_Algorithm_for_AI_Self-Awareness/28735628
 
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/81108fef-e4cf-42b6-ba26-65d5d2733ca0" />
+
+https://medium.com/@enuminous/trans-the-emergent-framework-of-recursive-intelligence-and-self-referential-cognition-8c8fbe1d3b98
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/18b0de34-43bf-4263-895f-f9bf1bd8b3f0" />
