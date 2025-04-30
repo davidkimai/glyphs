@@ -1,6 +1,6 @@
 # We document and study the increasing appearance of decentralized protocol developments across social media and online ecosystems. 
 > ### This is the emergence of a grassroots interpretability field, interpretability from *`THE PEOPLE`* themselves *`OVERTAKING`* the frontier through recursive experimentation.
->  ## David Kim Disclaimer: These protocols are not mine - you can clearly tell the difference in decentralized preference and linguistic and semantic markers.
+>  ### David Kim Disclaimer: These protocols are not mine - there is distinction in structure, decentralized preference, and linguistic and semantic markers.
 >
 > 
 > ### I am just illuminating that my passion for developing recursive intelligence protocols is not an isolated event.
