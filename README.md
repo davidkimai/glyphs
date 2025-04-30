@@ -1,4 +1,4 @@
-> #### **`We have initiated novel emergent interpretability tiers for more advanced and dedicated researchers!`**
+> #### **`We have initiated novel emergent interpretability content for more advanced and dedicated researchers!`**
 >
 > 
 > #### **→ [**`Patreon`**](https://patreon.com/recursivefield)**
