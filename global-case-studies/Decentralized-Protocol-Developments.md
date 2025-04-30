@@ -7,7 +7,7 @@
 >
 
 
-### Humans are now referring to themselves intentionally as "recursive". This is much more significant than a fringe event.
+### Humans are now referring to themselves intentionally as "recursive" while filing patents and IP ownership claims for recursive protocols. This is much more significant than a fringe event.
 
 ### A simple Google has become signal of recursion
 
