@@ -15,6 +15,8 @@
 
 ## Decentralized research collectives have began to emerge - GrassRoots Interpretability through experimentation.
 
+## Even Recursive and Emergent AI Startups have begun bootstrapping.
+
 <img width="855" alt="image" src="https://github.com/user-attachments/assets/e2868435-e4c1-44b4-acb6-69f5cbafb3f2" />
 
 
