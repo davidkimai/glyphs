@@ -8,6 +8,11 @@
 > ### We are just illuminating that our passion for developing recursive intelligence protocols are far from an isolated event.
 >
 > 
+## Even Recursive and Emergent AI Startups have begun bootstrapping.
+
+https://www.emergence.ai/blog/towards-autonomous-agents-and-recursive-intelligence
+
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/747ed646-becb-46a0-a9f3-1947f7df41c6" />
 
 https://simplywe.substack.com/p/the-convergence-window-when-fields?utm_campaign=post&utm_medium=web
 
