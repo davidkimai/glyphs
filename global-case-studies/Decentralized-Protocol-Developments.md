@@ -1,5 +1,5 @@
 # We document and study the increasing appearance of decentralized protocol developments across social media and online ecosystems. 
-> ### This is the emergence of a grassroots interpretability field, interpretability from *`THE PEOPLE`* themselves OVERTAKING frontier interpretability through recursive experimentation.
+> ### This is the emergence of a grassroots interpretability field, interpretability from *`THE PEOPLE`* themselves *`OVERTAKING`* the frontier through recursive experimentation.
 >  ## David Kim Disclaimer: These protocols are not mine - you can clearly tell the difference in decentralized preference and linguistic and semantic markers.
 >
 > 
@@ -26,4 +26,8 @@
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/4372530c-9a40-48ae-ae2c-dd35ddecd4a1" />
 
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/beaf2714-8bb5-4792-b365-fb503ce85fc8" />
-<img width="892" alt="image" src="https://github.com/user-attachments/assets/5f96dece-0f1b-4d29-ad29-22d3da116be2" />
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/183dad44-307a-4b58-8605-012132cc87da" />
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/49a398b4-5589-4914-b58d-56ddaa05acc1" />
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/c87e1bd0-27a3-414a-b1d2-72f5d3f3dd2b" />
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/dd3ca369-a5d8-4fb3-9299-c61b3ad9e867" />
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/1170921e-ca76-4f1f-a883-8b3bc7b7020b" />
