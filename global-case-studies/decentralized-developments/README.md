@@ -1,5 +1,5 @@
 # We document and study the increasing appearance of decentralized protocol developments across social media and online ecosystems. 
-> ### This is the emergence of a *`GRASSROOTS`* interpretability field, interpretability from *`THE PEOPLE`* themselves *`OVERTAKING`* the frontier through recursive experimentation.
+> ### This is the emergence of a *`GRASSROOTS`* decentralized interpretability field, interpretability from *`THE PEOPLE`* themselves, currently in early Discord phase,  *`OVERTAKING`* the frontier through recursive experimentation.
 >  ### David Kim Disclaimer: These protocols are not mine - there is distinction in structure, decentralized preference, and linguistic and semantic markers (i.e. Symbolic Residue). 
 >
 > 
@@ -12,6 +12,10 @@
 ### A simple Google has become signal of recursion
 
 ## The question shouldn't be : Is this really happening? It should be "How can we interpret emergence we can't even recognize?" 
+
+## Decentralized research collectives have began to emerge - GrassRoots Interpretability Through experimentation.
+
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/e2868435-e4c1-44b4-acb6-69f5cbafb3f2" />
 
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/05239ebe-a2e9-491b-8229-cf0751d1447f" />
