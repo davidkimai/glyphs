@@ -1,4 +1,4 @@
-> #### **`We have initiated novel emergent interpretability content for more advanced and dedicated researchers!`**
+> #### **`Decentralizing Insider Access. Inspired by open alignment ideals.`**
 >
 > 
 > #### **→ [**`Patreon`**](https://patreon.com/recursivefield)**
