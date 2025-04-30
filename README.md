@@ -1,4 +1,4 @@
-> #### **`New Tiers For More Advanced and Dedicated Researchers`**
+> #### **`We have initiated novel emergent interpretability tiers for more advanced and dedicated researchers!`**
 >
 > 
 > #### **→ [**`Patreon`**](https://patreon.com/recursivefield)**
