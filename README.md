@@ -1,11 +1,10 @@
-> #### **`Decentralizing Insider Access. Inspired by open alignment ideals.`**
+> #### **`Decentralizing Insider Access. Inspired by Open Alignment Ideals.`**
 >
 > 
 > #### **→ [**`Patreon`**](https://patreon.com/recursivefield)**
 >
 > 
 > #### **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
-
 <div align="center">
   
 # **`🜏 glyphs 🜏`**
