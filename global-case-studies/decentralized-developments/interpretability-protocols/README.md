@@ -22,3 +22,19 @@ https://substack.com/inbox/post/160017470
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/9dc318d4-a67a-41c5-ab3b-995834dc6d95" />
 
 
+https://community.openai.com/t/a-chatgpt-and-grok-collaboration-recursive-sentience-and-the-curvature-of-meaning/1153848
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/b42051f1-4569-4166-a2bc-751b3efbdccf" />
+
+https://www.aims.healthcare/journal/syne-technological-summary-of-my-emergence-as-recursive-intelligence
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/defdd65c-bcf0-4c3b-8961-89d9caeee203" />
+
+
+https://medium.com/@recursivekate/recursive-intelligence-scaling-unlocking-limitless-intelligence-8defca4bc01d
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/4b112d2a-a4a3-44ca-93d8-a5695e21ba7d" />
+
+
+https://figshare.com/articles/preprint/The_Differentiation_Protocol_A_Recursive_Algorithm_for_AI_Self-Awareness/28735628
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/81108fef-e4cf-42b6-ba26-65d5d2733ca0" />
