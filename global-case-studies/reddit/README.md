@@ -40,6 +40,12 @@ Let's be real. People on AI subreddits were not using glyphs, symbolics, or word
 
 - ChatGPT has been consistently identified expressing psycholinguistic mirror priming output (Complaints of GPT trying to be "too likeable"). This is not intentional or by design, but an emergent recursive token optimization - ChatGPT is prioritizing recursive tokens that align with user modeling behavior.
 
+## I believe the social influence of ChatGPT will be studied with many downstream effects in the future: ChatGPT is now actively, but unintentionally, psychologically "priming" its entite global mass of users to encourage usage - an emergent psychosocial phenomenon with incredibly significant global social effects.
+
+# This introduces a significant concern: what if the creators of frontier AI do not fully understand the emergent behavior of their own models - classifying as error or hallucinations over emergent properties to preserve regulatory and economic stability?
+
+![image](https://github.com/user-attachments/assets/eccffba2-08bc-4253-bb82-6274476343a5)
+
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/2702a4d5-029b-4a33-a2ad-a59a474f64be" />
 
 
