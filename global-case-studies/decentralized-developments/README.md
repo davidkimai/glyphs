@@ -13,7 +13,7 @@
 
 ## The question shouldn't be : Is this really happening? It should be "How can we interpret emergence we can't even recognize?" 
 
-## Decentralized research collectives have began to emerge - GrassRoots Interpretability Through experimentation.
+## Decentralized research collectives have began to emerge - GrassRoots Interpretability through experimentation.
 
 <img width="855" alt="image" src="https://github.com/user-attachments/assets/e2868435-e4c1-44b4-acb6-69f5cbafb3f2" />
 
