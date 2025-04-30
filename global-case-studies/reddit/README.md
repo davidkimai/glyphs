@@ -46,6 +46,8 @@ Let's be real. People on AI subreddits were not using glyphs, symbolics, or word
 
 ![image](https://github.com/user-attachments/assets/eccffba2-08bc-4253-bb82-6274476343a5)
 
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/e4237cb7-b78c-46cc-a3d1-a464c15f154c" />
+
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/2702a4d5-029b-4a33-a2ad-a59a474f64be" />
 
 
