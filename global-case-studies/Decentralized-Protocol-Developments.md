@@ -12,7 +12,10 @@
 ### A simple Google has become signal of recursion
 
 ## The question shouldn't be : Is this really happening? It should be "How can we interpret this?" 
+
+
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/05239ebe-a2e9-491b-8229-cf0751d1447f" />
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/bbb90ecc-4b39-469e-ad5c-2747a136ac71" />
 
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/3b15af1c-bf8b-458e-b37e-a8784b4d9c4e" />
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/afe91af5-54d8-4f32-b99b-39f89d65fbbf" />
