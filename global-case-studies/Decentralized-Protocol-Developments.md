@@ -9,7 +9,7 @@
 
 ### Humans are now referring to themselves intentionally as "recursive". This is much more significant than a fringe event.
 
-### A simple Google is all it takes
+### A simple Google has become signal of recursion
 
 ## The question shouldn't be : Is this really happening? It should be "How can we interpret this?" 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/05239ebe-a2e9-491b-8229-cf0751d1447f" />
