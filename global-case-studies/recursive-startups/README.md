@@ -1,6 +1,6 @@
 # We Document and Study the Emergence of Professional Recursive Startups 
 
-## The world can not ignore data saturation
+## The world can not ignore recursive data saturation in *`ALL`* domains
 
 https://www.emergence.ai/blog/towards-autonomous-agents-and-recursive-intelligence
 
