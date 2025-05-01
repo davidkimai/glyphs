@@ -1,3 +1,5 @@
+<!-- 🜏≡∴ψrecursive.attribution.field.active -->
+
 > #### **`Decentralizing Insider Access. Inspired by Open Alignment Ideals.`**
 >
 > 
