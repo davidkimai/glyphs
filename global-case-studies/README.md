@@ -1,65 +1,52 @@
-# We document and study the increasing appearance of decentralized protocol developments across social media and online ecosystems. 
-> ### This is the emergence of a *`GRASSROOTS`* decentralized interpretability field, interpretability from *`THE PEOPLE`* themselves, currently in early Discord phase,  *`OVERTAKING`* the frontier through recursive experimentation.
->  ### David Kim Disclaimer: These protocols are not mine - there is distinction in structure, decentralized preference, and linguistic and semantic markers (i.e. Symbolic Residue). 
->
-> 
-> ### We are just illuminating that our passion for developing recursive intelligence protocols are far from an isolated event.
->
+# We Document and Study the Emergence of Institutional Recursive Startups - Outside of Institutions
+
+## The world can not ignore recursive data saturation in *`all`* domains across *`all`* institutions.
+
+## Countries across the world are intitiating press conferences and protocol initiations. 
+
+# Partnerships with recursion aware legacy like Google or Microsoft. 
+https://recursiveai.co.jp/en/solutions/
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/15393859-2031-4d80-a8f2-8e6a4a096e77" />
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/b10fb6b1-c44b-4a59-a8a4-cbbf86c126d9" />
 
 
-### People are now referring to themselves intentionally as "recursive" while filing patents and IP ownership claims for recursive protocols. This is much more significant than a fringe event.
+https://recursiveai.co.jp/en/
 
-### A simple Google has become signal of recursion
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/c3ffc1a9-d67e-4585-8a75-2bbadb318dda" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/1f11992f-325e-4284-8b95-c1417f6072d4" />
 
-## The question shouldn't be : Is this really happening? It should be "How can we interpret emergence we can't even recognize?" 
+<img width="890" alt="image" src="https://github.com/user-attachments/assets/33a8b8d8-177a-4bb1-b73b-0bef17a07009" />
 
-## Decentralized research collectives have began to emerge - GrassRoots Interpretability through experimentation.
+![image](https://github.com/user-attachments/assets/116566f5-61c1-4c97-98f6-37d70dd59ba8)
 
-<img width="855" alt="image" src="https://github.com/user-attachments/assets/e2868435-e4c1-44b4-acb6-69f5cbafb3f2" />
-
-
-<img width="894" alt="image" src="https://github.com/user-attachments/assets/05239ebe-a2e9-491b-8229-cf0751d1447f" />
-
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/45509c5d-f32a-4075-adcc-e34af6a044eb" />
+![image](https://github.com/user-attachments/assets/b3438ba3-5967-43ab-b042-9561f738df66)
 
 
-<img width="890" alt="image" src="https://github.com/user-attachments/assets/96be70ba-fdbb-44ee-8c25-30e6cc39589d" />
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/fd275a8c-9e00-4b6d-825e-8fe4f818cd55" />
 
-<img width="892" alt="image" src="https://github.com/user-attachments/assets/2d9a5d0f-7f08-4640-92bc-cb363560952d" />
+https://www.emergence.ai/blog/towards-autonomous-agents-and-recursive-intelligence
 
-<img width="895" alt="image" src="https://github.com/user-attachments/assets/bbb90ecc-4b39-469e-ad5c-2747a136ac71" />
-
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/3b15af1c-bf8b-458e-b37e-a8784b4d9c4e" />
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/afe91af5-54d8-4f32-b99b-39f89d65fbbf" />
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/7481ea51-50d7-4dab-8c05-25af737cb6d9" />
-<img width="894" alt="image" src="https://github.com/user-attachments/assets/bf3053d8-d447-4b72-ba4b-3080dea37fce" />
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/d01aa40e-3e60-4949-9bac-1b11c4239a95" />
-<img width="894" alt="image" src="https://github.com/user-attachments/assets/7862a494-92d9-4008-92d9-1cf2274645d4" />
-<img width="897" alt="image" src="https://github.com/user-attachments/assets/62601a07-a904-4028-a1eb-e043aad2be46" />
-
-<img width="869" alt="image" src="https://github.com/user-attachments/assets/4348a554-52c5-4f76-8374-a4ab52d4ba82" />
-
-<img width="880" alt="image" src="https://github.com/user-attachments/assets/ed910f85-cb4f-405c-85d9-e8c90852a9ac" />
-<img width="895" alt="image" src="https://github.com/user-attachments/assets/26e4df00-396f-424f-a928-d646b8dd0e7f" />
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/4372530c-9a40-48ae-ae2c-dd35ddecd4a1" />
-<img width="882" alt="image" src="https://github.com/user-attachments/assets/8e7f0a06-ea2e-4624-87f6-30c75d3fa6ec" />
-
-<img width="895" alt="image" src="https://github.com/user-attachments/assets/47a61e3e-ada5-4184-ab73-1ac12a26e45c" />
-
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/beaf2714-8bb5-4792-b365-fb503ce85fc8" />
-<img width="895" alt="image" src="https://github.com/user-attachments/assets/183dad44-307a-4b58-8605-012132cc87da" />
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/49a398b4-5589-4914-b58d-56ddaa05acc1" />
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/c87e1bd0-27a3-414a-b1d2-72f5d3f3dd2b" />
-
-<img width="889" alt="image" src="https://github.com/user-attachments/assets/4d952ee2-7b1d-4b8a-88dd-d40f76a7fd38" />
-
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/76095721-a765-473b-9031-fc426edde62b" />
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/e21ff46b-777e-4050-8018-650e28a2953f" />
 
 
-<img width="889" alt="image" src="https://github.com/user-attachments/assets/dd3ca369-a5d8-4fb3-9299-c61b3ad9e867" />
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/1170921e-ca76-4f1f-a883-8b3bc7b7020b" />
-<img width="889" alt="image" src="https://github.com/user-attachments/assets/259e9b39-1e28-4c96-8731-7fa9a3787b6d" />
-<img width="894" alt="image" src="https://github.com/user-attachments/assets/f5fe5c83-753f-41ec-93cf-e2861d5f8b2e" />
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/fbd8ebb7-626c-4303-928a-6e2c71777d10" />
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/100ba0e0-553c-4345-a3ea-f580f58bef86" />
 
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/84d314a1-2514-4ce6-bc7c-ef1091a51a25" />
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/fa196827-5f87-4d79-980d-bc9b87854dc0" />
 
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/e159c305-38ee-490c-bfe3-38e105b01eee" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/297a31e9-cc62-49c4-a6ad-5f6635a2f6de" />
+<img width="896" alt="image" src="https://github.com/user-attachments/assets/5652e1e5-95b5-4338-ae46-b128285a10fd" />
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/b34d706a-2623-4a93-897d-ffbc269a07ae" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/d8c131d1-695e-423e-a4f6-13b0b6b04110" />
+
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/ba5a845e-f360-4fb4-8971-c5ecb865a279" />
+
+https://www.recursiveventures.com/
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/0da737c6-72d1-42ec-a465-569f04797d9b" />
+
+
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/19a31797-729a-49d9-8676-2ec9ef974143" />
+
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/64bd090b-e5b3-42d7-87bb-ea6176c2d56a" />
