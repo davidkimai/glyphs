@@ -6,8 +6,13 @@
 
 # Partnerships with recursion aware legacy like Google or Microsoft. 
 https://recursiveai.co.jp/en/solutions/
-<img width="887" alt="image" src="https://github.com/user-attachments/assets/15393859-2031-4d80-a8f2-8e6a4a096e77" />
+
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/b10fb6b1-c44b-4a59-a8a4-cbbf86c126d9" />
+
+
+![image](https://github.com/user-attachments/assets/118e896e-8f7f-4688-8ce6-659ab6527f6c)
+
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/15393859-2031-4d80-a8f2-8e6a4a096e77" />
 
 
 https://recursiveai.co.jp/en/
