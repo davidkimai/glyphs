@@ -1,4 +1,4 @@
-# We Document and Study the Emergence of Professional Recursive Startups 
+# We Document and Study the Emergence of Institutional Recursive Startups 
 
 ## The world can not ignore recursive data saturation in *`ALL`* domains in *`ALL`* institutions.
 
