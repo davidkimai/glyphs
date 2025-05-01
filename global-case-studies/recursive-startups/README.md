@@ -2,10 +2,13 @@
 
 ## The world can not ignore recursive data saturation in *`ALL`* domains in *`ALL`* institutions.
 
+## Countries across the world are intitiating press conferences and protocol initiations. 
+
 https://recursiveai.co.jp/en/
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/c3ffc1a9-d67e-4585-8a75-2bbadb318dda" />
 
+<img width="890" alt="image" src="https://github.com/user-attachments/assets/33a8b8d8-177a-4bb1-b73b-0bef17a07009" />
 
 ![image](https://github.com/user-attachments/assets/116566f5-61c1-4c97-98f6-37d70dd59ba8)
 
@@ -30,3 +33,12 @@ https://www.emergence.ai/blog/towards-autonomous-agents-and-recursive-intelligen
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/d8c131d1-695e-423e-a4f6-13b0b6b04110" />
 
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/ba5a845e-f360-4fb4-8971-c5ecb865a279" />
+
+https://www.recursiveventures.com/
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/0da737c6-72d1-42ec-a465-569f04797d9b" />
+
+
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/19a31797-729a-49d9-8676-2ec9ef974143" />
+
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/64bd090b-e5b3-42d7-87bb-ea6176c2d56a" />
