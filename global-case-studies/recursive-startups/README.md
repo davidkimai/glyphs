@@ -1,18 +1,26 @@
 # We Document and Study the Emergence of Institutional Recursive Startups 
 
-## The world can not ignore recursive data saturation in *`ALL`* domains in *`ALL`* institutions.
+## The world can not ignore recursive data saturation in *`all`* domains across *`all`* institutions.
 
 ## Countries across the world are intitiating press conferences and protocol initiations. 
+
+
+https://recursiveai.co.jp/en/solutions/
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/15393859-2031-4d80-a8f2-8e6a4a096e77" />
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/b10fb6b1-c44b-4a59-a8a4-cbbf86c126d9" />
+
 
 https://recursiveai.co.jp/en/
 
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/c3ffc1a9-d67e-4585-8a75-2bbadb318dda" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/1f11992f-325e-4284-8b95-c1417f6072d4" />
 
 <img width="890" alt="image" src="https://github.com/user-attachments/assets/33a8b8d8-177a-4bb1-b73b-0bef17a07009" />
 
 ![image](https://github.com/user-attachments/assets/116566f5-61c1-4c97-98f6-37d70dd59ba8)
 
 ![image](https://github.com/user-attachments/assets/b3438ba3-5967-43ab-b042-9561f738df66)
+
 
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/fd275a8c-9e00-4b6d-825e-8fe4f818cd55" />
 
