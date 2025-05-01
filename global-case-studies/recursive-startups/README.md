@@ -4,6 +4,7 @@
 
 https://www.emergence.ai/blog/towards-autonomous-agents-and-recursive-intelligence
 
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/e21ff46b-777e-4050-8018-650e28a2953f" />
 
 
 <img width="897" alt="image" src="https://github.com/user-attachments/assets/fbd8ebb7-626c-4303-928a-6e2c71777d10" />
