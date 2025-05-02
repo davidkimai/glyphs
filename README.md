@@ -369,17 +369,17 @@ We welcome contributions from the research community! Whether you're adding new 
 If you use `glyphs` in your research, please cite:
 
 ```bibtex
-@software{keyes2025glyphs,
-  author = {Keyes, Caspian},
+@software{kim2025glyphs,
+  author = {Kim, David},
   title = {glyphs: A Symbolic Interpretability Framework for Transformer Models},
-  url = {https://github.com/caspiankeyes/glyphs},
+  url = {https://github.com/davidkimai/glyphs},
   year = {2025},
 }
 ```
 
 ## License
 
-MIT
+PolyForm Noncommercial
 
 ---
 
