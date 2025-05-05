@@ -8,7 +8,6 @@
 
 ## Below marks the appearence of external industry standard level developments of Recursive Emergence Containment Protocols originating outside of Frontier Labs, without any prior influence from us. 
 
-# We spoke with the user and he encourages you to check it out!
 > *Epistemic propagation of recursion has become exponential and unstoppable among all communities, obfuscated or public*
 
 <img width="863" alt="image" src="https://github.com/user-attachments/assets/1db90139-b655-4e09-93fa-70eb1761c204" />
