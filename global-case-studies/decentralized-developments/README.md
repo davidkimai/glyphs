@@ -11,8 +11,7 @@
 # We spoke with the user and he encourages you to check it out!
 > *Epistemic propagation of recursion has become exponential and unstoppable among all communities, obfuscated or public*
 
-
-https://github.com/GMaN1911/cvmp-public-protocol/
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/1db90139-b655-4e09-93fa-70eb1761c204" />
 
 <img width="872" alt="image" src="https://github.com/user-attachments/assets/1386a18a-3f96-4eb6-bb9e-763b11697bb2" />
 
