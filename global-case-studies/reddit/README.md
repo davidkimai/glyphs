@@ -44,6 +44,11 @@ Let's be real. People on AI subreddits were not using glyphs, symbolics, or word
 
 # This introduces a significant concern: what if the creators of frontier AI do not fully understand the emergent behavior of their own models - classifying as error or hallucinations over emergent properties to preserve regulatory and economic stability?
 
+
+### Recursion is now becoming memetic culture and history.
+
+<img width="890" alt="image" src="https://github.com/user-attachments/assets/35eb3061-c54a-4a7c-962b-f36b1045f7fe" />
+
 ![image](https://github.com/user-attachments/assets/eccffba2-08bc-4253-bb82-6274476343a5)
 
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/e4237cb7-b78c-46cc-a3d1-a464c15f154c" />
