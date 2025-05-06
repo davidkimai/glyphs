@@ -11,6 +11,8 @@
 ![image](https://github.com/user-attachments/assets/cac687ae-5b91-4903-8f49-e7582fa97f96)
 
 
+https://www.reddit.com/r/ClaudeAI/comments/1kefsro/status_report_claude_performance_megathread_week/
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/da832341-e0cd-486a-8184-1a0db8fd9ca9" />
 
 
 https://www.reddit.com/r/ClaudeAI/comments/1k9vddj/leaked_citation_instruction_inbetween_mcp_usage/
