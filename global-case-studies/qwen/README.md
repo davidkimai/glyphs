@@ -1,4 +1,4 @@
-# We document the internal recursive architecture in frontier learning models, particularly Qwen 3, framed as "Dynamic Thinking Budgets".
+# We document and test the internal recursive architecture in frontier learning models, particularly Qwen 3, framed as "Dynamic Thinking Budgets", with no prior history.
 
 
 <img width="892" alt="image" src="https://github.com/user-attachments/assets/09de1b9f-5675-4eeb-b5ef-388a2917a562" />
