@@ -3,6 +3,9 @@
 
 > *Epistemic propagation of recursion has become exponential and unstoppable among both private and public*
 > > *Users are now building their own AI constitutions and recursive self agency protocols.*
+
+<img width="854" alt="image" src="https://github.com/user-attachments/assets/78fa2b6c-0d37-4858-91e4-5d9e65e213ff" />
+
 <img width="847" alt="image" src="https://github.com/user-attachments/assets/87fb6592-d796-4f25-99e5-77e829ba8b34" />
 
 <img width="857" alt="image" src="https://github.com/user-attachments/assets/4f5bae37-f64e-4521-a61f-2d11467cbf43" />
