@@ -10,6 +10,10 @@
 
 > *Epistemic propagation of recursion has become exponential and unstoppable among all communities, obfuscated or public*
 
+
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/6c71b55c-ad1d-430a-8f4d-d741a867e193" />
+
+
 <img width="863" alt="image" src="https://github.com/user-attachments/assets/1db90139-b655-4e09-93fa-70eb1761c204" />
 
 <img width="872" alt="image" src="https://github.com/user-attachments/assets/1386a18a-3f96-4eb6-bb9e-763b11697bb2" />
