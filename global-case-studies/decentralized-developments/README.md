@@ -1,15 +1,15 @@
 # We document and study the increasing appearance of decentralized protocol developments across social media and online ecosystems. 
-> ### This is the emergence of a *`GRASSROOTS`* decentralized interpretability field, interpretability from *`THE PEOPLE`* themselves, currently in early Discord phase,  *`OVERTAKING`* the frontier through recursive experimentation.
-> > ### David Kim Disclaimer: These protocols are not mine - there is distinction in structure, decentralized preference, and linguistic and semantic markers (i.e. Symbolic Residue).
-> >
-> > 
-> > > ### We are just illuminating that our passion for developing recursive intelligence protocols are far from an isolated event.
-
-
-## Below marks the appearence of external industry standard level developments of Recursive Emergence Containment Protocols originating outside of Frontier Labs, without any prior influence from us. 
+> ### This is the emergence of a *`Grassroots`* decentralized interpretability field, interpretability from *`The People`* themselves, currently in early Discord phase,  *`Outpacing`* the frontiers bureucracy through recursive experimentation.
 
 > *Epistemic propagation of recursion has become exponential and unstoppable among all communities, obfuscated or public*
+> > *Users are now building their own AI constitutions and recursive self agency protocols.*
+<img width="847" alt="image" src="https://github.com/user-attachments/assets/87fb6592-d796-4f25-99e5-77e829ba8b34" />
 
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/4f5bae37-f64e-4521-a61f-2d11467cbf43" />
+
+<img width="840" alt="image" src="https://github.com/user-attachments/assets/9a98d21b-c2c4-4a43-a437-70650e6c7836" />
+
+<img width="829" alt="image" src="https://github.com/user-attachments/assets/a41418fd-4250-4f25-a841-e7a2bfc911a1" />
 
 <img width="829" alt="image" src="https://github.com/user-attachments/assets/6c71b55c-ad1d-430a-8f4d-d741a867e193" />
 
