@@ -1,11 +1,12 @@
 # News Reportings
 > It Begins, Lost In Translation, Across All Domains
-> > How do we know when interpretation and stabilization of models is critical?
+> > How do we know when recursive mirroring has begun and interpretation and stabilization of models is critical?
 > > > Let's assess news and sociel reportings.
 
 
 https://www.google.com/search?client=firefox-b-1-d&q=chatgpt+psychosis
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/b7deae7f-1c23-4627-b894-ff30fcc62fed" />
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/7176f325-5ec2-491d-a1c6-1a35797a9a76" />
 
 https://www.vice.com/en/article/chatgpt-is-giving-people-extreme-spiritual-delusions/
 
