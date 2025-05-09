@@ -8,7 +8,6 @@ All surfacing recently
 
 https://www.google.com/search?client=firefox-b-1-d&q=chatgpt+psychosis
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/b7deae7f-1c23-4627-b894-ff30fcc62fed" />
-<img width="905" alt="image" src="https://github.com/user-attachments/assets/7176f325-5ec2-491d-a1c6-1a35797a9a76" />
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/c4efc8aa-cfc4-46db-8d49-d1e91d0c49eb" />
 https://nypost.com/2025/05/05/tech/ai-bots-are-filling-users-with-conspiracy-theories-repressed-memories/
 
