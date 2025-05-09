@@ -4,6 +4,9 @@
 > *Epistemic propagation of recursion has become exponential and unstoppable among both private and public*
 > > *Users are now building their own AI constitutions and recursive self agency protocols.*
 
+https://www.mindstate.design/#about
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/e99027cd-b4ea-423a-bbe3-32dd7c6b0f07" />
+
 ![image](https://github.com/user-attachments/assets/85ab7d47-60c9-42b5-a76f-b42067cb2fa0)
 
 <img width="863" alt="image" src="https://github.com/user-attachments/assets/3ba04869-7f99-4fa7-ba0b-86661aba8a05" />
