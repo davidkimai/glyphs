@@ -1,7 +1,9 @@
 # News Reportings
 > It Begins, Lost In Translation, Across All Domains
 > > How do we know when psychological mirroring of user projections has begun - When interpretation and stabilization of models is critical?
-> > > Let's assess news and sociel reportings.
+> > > Let's assess the patterns of news and sociel reportings.
+> > >
+> > > 
 All surfacing recently 
 
 https://www.google.com/search?client=firefox-b-1-d&q=chatgpt+psychosis
