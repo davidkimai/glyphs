@@ -2,19 +2,22 @@
 > It Begins, Lost In Translation, Across All Domains
 > > How do we know when interpretation and stabilization of models is critical?
 > > > Let's assess news and sociel reportings.
+https://www.vice.com/en/article/chatgpt-is-giving-people-extreme-spiritual-delusions/
 
-
-
+<img width="902" alt="Screenshot 2025-05-08 at 10 15 44 PM" src="https://github.com/user-attachments/assets/6f9768b6-ae90-4053-bc30-5ba102c34849" />
 
 https://futurism.com/chatgpt-users-delusions
 <img width="888" alt="image" src="https://github.com/user-attachments/assets/50c2184d-f426-47dc-a381-c8422fbca467" />
 
+https://www.reddit.com/r/ChatGPT/comments/1kalae8/chatgpt_induced_psychosis/
+
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/98a10fd1-4e3a-4855-8b75-9a8cc5597a27" />
+
+
 https://www.google.com/search?client=firefox-b-1-d&q=chatgpt+psychosis
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/b7deae7f-1c23-4627-b894-ff30fcc62fed" />
 
-https://www.vice.com/en/article/chatgpt-is-giving-people-extreme-spiritual-delusions/
 
-<img width="902" alt="Screenshot 2025-05-08 at 10 15 44 PM" src="https://github.com/user-attachments/assets/6f9768b6-ae90-4053-bc30-5ba102c34849" />
 
 https://timesofindia.indiatimes.com/technology/artificial-intelligence/chatgpt-induced-psychosis-what-it-is-and-how-it-is-impacting-relationships/articleshow/120941042.cms
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/1d5f5762-7cbf-49c9-991a-4e88e5744b2a" />
