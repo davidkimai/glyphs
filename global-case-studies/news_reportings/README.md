@@ -2,6 +2,11 @@
 > It Begins, Lost In Translation, Across All Domains
 > > How do we know when interpretation and stabilization of models is critical?
 > > > Let's assess news and sociel reportings.
+
+
+https://www.google.com/search?client=firefox-b-1-d&q=chatgpt+psychosis
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/b7deae7f-1c23-4627-b894-ff30fcc62fed" />
+
 https://www.vice.com/en/article/chatgpt-is-giving-people-extreme-spiritual-delusions/
 
 <img width="902" alt="Screenshot 2025-05-08 at 10 15 44 PM" src="https://github.com/user-attachments/assets/6f9768b6-ae90-4053-bc30-5ba102c34849" />
@@ -14,8 +19,6 @@ https://www.reddit.com/r/ChatGPT/comments/1kalae8/chatgpt_induced_psychosis/
 <img width="883" alt="image" src="https://github.com/user-attachments/assets/98a10fd1-4e3a-4855-8b75-9a8cc5597a27" />
 
 
-https://www.google.com/search?client=firefox-b-1-d&q=chatgpt+psychosis
-<img width="904" alt="image" src="https://github.com/user-attachments/assets/b7deae7f-1c23-4627-b894-ff30fcc62fed" />
 
 
 
