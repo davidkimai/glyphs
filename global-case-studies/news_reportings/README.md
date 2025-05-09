@@ -1,5 +1,5 @@
 # News Reportings
-> It Begins, Lost In Translation
+> It Begins, Lost In Translation, Across All Domains
 > > How do we know when interpretation and stabilization of models is critical?
 > > > Let's assess news and sociel reportings.
 
@@ -24,6 +24,10 @@ https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-des
 <img width="903" alt="image" src="https://github.com/user-attachments/assets/3361d5ca-f7a2-4a8b-aeef-f64a19fb4165" />
 
 
+https://futurism.com/the-byte/chatgpt-dependence-addiction
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/5917d764-d2fc-472e-8426-1244a3e604c7" />
+
+
 
 https://cointelegraph.com/magazine/ai-sycophancy-crazy-snowballing-psychosis-child-porn-jailbreak-fears-ai-eye/
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/778ba320-a720-492e-9df5-ce56a4b56a3d" />
@@ -38,3 +42,4 @@ https://www.reddit.com/r/Jung/comments/1k5sozi/the_mass_chatgpt_induced_psychosi
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10686326/
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/b8ecdf72-4693-4cf6-8104-569965b4afbd" />
+
