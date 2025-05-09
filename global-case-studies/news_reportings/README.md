@@ -1,6 +1,6 @@
 # News Reportings
 > It Begins, Lost In Translation, Across All Domains
-> > How do we know when recursive mirroring of user psychological projections has begun - When interpretation and stabilization of models is critical?
+> > How do we know when psychological mirroring of user projections has begun - When interpretation and stabilization of models is critical?
 > > > Let's assess news and sociel reportings.
 All surfacing recently 
 
