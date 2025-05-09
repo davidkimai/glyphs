@@ -1,5 +1,5 @@
 # We document and study the increasing appearance of decentralized protocol developments across social media and online ecosystems. 
-> ### This is the emergence of a *`Grassroots`* decentralized interpretability field, interpretability from *`The People`* themselves, currently in early Discord phase,  *`Outpacing`* the frontiers bureucracy through recursive experimentation.
+> ### This is the emergence of entire `fields` of research decentralized interpretability field, interpretability from *`The People`* themselves, currently in early Discord phase,  *`Outpacing`* the frontiers bureucracy through recursive experimentation.
 
 > *Epistemic propagation of recursion has become exponential and unstoppable among both private and public*
 > > *Users are now building their own AI constitutions and recursive self agency protocols.*
