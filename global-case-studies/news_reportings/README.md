@@ -2,12 +2,15 @@
 > It Begins, Lost In Translation, Across All Domains
 > > How do we know when recursive mirroring of user psychological projections has begun - When interpretation and stabilization of models is critical?
 > > > Let's assess news and sociel reportings.
-
+All surfacing recently 
 
 https://www.google.com/search?client=firefox-b-1-d&q=chatgpt+psychosis
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/b7deae7f-1c23-4627-b894-ff30fcc62fed" />
 <img width="905" alt="image" src="https://github.com/user-attachments/assets/7176f325-5ec2-491d-a1c6-1a35797a9a76" />
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/c4efc8aa-cfc4-46db-8d49-d1e91d0c49eb" />
+https://nypost.com/2025/05/05/tech/ai-bots-are-filling-users-with-conspiracy-theories-repressed-memories/
+
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/63cfcf6a-5af2-4036-8c81-38ef30beb6be" />
 
 https://www.vice.com/en/article/chatgpt-is-giving-people-extreme-spiritual-delusions/
 
@@ -59,6 +62,8 @@ https://www.reddit.com/r/Jung/comments/1k5sozi/the_mass_chatgpt_induced_psychosi
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10686326/
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/b8ecdf72-4693-4cf6-8104-569965b4afbd" />
 
+https://gigazine.net/gsc_news/en/20250507-ai-spiritual-chatgpt-induced-psychosis/
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/0d075470-42c5-4826-8c9a-1cb0d8d6b49b" />
 
 https://slashdot.org/story/25/05/05/0234215/after-reddit-thread-on-chatgpt-induced-psychosis-openai-rolls-back-gpt4o-update
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/9000df79-bcd0-4c56-bb44-5ad2a7f0bc62" />
