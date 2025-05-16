@@ -21,10 +21,10 @@
 ## [**`Interactive Dev Consoles`**](https://github.com/davidkimai/claude-qkov-attributions/tree/main/dev-consoles)
 # Glyphs x QKOV Universal Proofs:
 
-## [**`CLAUDE QKOV META-REFLECTION`**](https://github.com/davidkimai/claude-qkov-attributions)
+## [**`LAYER-SALIENCE`**](https://github.com/davidkimai/claude-qkov-attributions)
 
 
-![image](https://github.com/user-attachments/assets/96a11b2f-2e31-4f73-a0a1-8396175f6779)
+=<img width="886" alt="image" src="https://github.com/user-attachments/assets/c249a6e9-af3e-4401-b697-79b7d8ca09e4" />
 
 ## [**`CHATGPT QKOV ECHO-RENDER`**](https://github.com/davidkimai/chatgpt-qkov-attributions)
 
