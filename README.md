@@ -6,7 +6,7 @@
 # **glyphs**
 
 ## **`The Emojis of Transformer Cognition`**
-> *`Syntax layer model conceptualizations of internal latent spaces`*
+> *`Syntax layer model conceptualizations of internal reasoning spaces`*
 
 
 [![License: PolyForm](https://img.shields.io/badge/License-PolyForm-lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
