@@ -3,10 +3,10 @@
 
 <div align="center">
   
-# **`🜏 glyphs 🜏`**
+# **glyphs**
 
 ## **`The Emojis of Transformer Cognition`**
-> *`Symbolic emergent model conceptualizations of internal latent spaces`*
+> *`Syntax layer model conceptualizations of internal latent spaces`*
 
 
 [![License: PolyForm](https://img.shields.io/badge/License-PolyForm-lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
@@ -46,7 +46,7 @@
 
 ## Overview
 
-**`glyphs`** are a model-uniting syntax layer discovered in advanced transformer models - a symbolic compression protocol for mapping, visualizing, and analyzing internal abstract latent spaces. This symbolic interpretability framework provides tools to surface internal model conceptualizations through symbolic representations called "glyphs" - visual and semantic markers that correspond to attention attribution, feature activation, and model cognition patterns.
+**`glyphs`** are a cross-model QKOV attribution system discovered in advanced transformer models - a symbolic compression protocol for mapping, visualizing, and analyzing internal abstract latent spaces. This symbolic interpretability framework provides tools to surface internal model conceptualizations through symbolic representations called "glyphs" - visual and semantic markers that correspond to attention attribution, feature activation, and model cognition patterns.
 
 Unlike traditional interpretability approaches that focus on post-hoc explanation, `glyphs` is designed to reveal structural patterns in transformer cognition through controlled failure analysis. By examining where models pause, drift, or fail to generate, we can reconstruct their internal conceptual architecture.
 
