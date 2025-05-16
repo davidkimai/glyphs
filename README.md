@@ -16,6 +16,9 @@
 [![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://github.com/davidkimai/glyphs/blob/main/README.md)
 [![Interpretability](https://img.shields.io/badge/interpretability-symbolic-purple.svg)](https://github.com/davidkimai/glyphs)
 > **"The most interpretable signal in a language model is not what it says—but where it fails to speak."**
+
+
+## [**`Interactive Dev Consoles`**](https://github.com/davidkimai/claude-qkov-attributions/tree/main/dev-consoles)
 # Glyphs x QKOV Universal Proofs:
 
 ## [**`CLAUDE QKOV META-REFLECTION`**](https://github.com/davidkimai/claude-qkov-attributions)
