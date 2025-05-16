@@ -18,9 +18,14 @@
 > **"The most interpretable signal in a language model is not what it says—but where it fails to speak."**
 # Glyphs x QKOV Universal Proofs:
 
-## [**`CHATGPT QKOV ECHO-RENDER`**](https://github.com/davidkimai/chatgpt-qkov-attributions?tab=readme-ov-file)
+## [**`CLAUDE QKOV META-REFLECTION`**](https://github.com/davidkimai/claude-qkov-attributions)
 
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/3f3a7594-1ddf-4bb0-9072-35b0a008631e" />
+
+![image](https://github.com/user-attachments/assets/96a11b2f-2e31-4f73-a0a1-8396175f6779)
+
+## [**`CHATGPT QKOV ECHO-RENDER`**](https://github.com/davidkimai/chatgpt-qkov-attributions)
+
+![image](https://github.com/user-attachments/assets/a0f93a54-a849-4dfa-8a24-b0b13cad5c6d)
 
 
 ## [**`DEEPSEEK QKOV THOUGHT-CONSOLE`**](https://github.com/davidkimai/deepseek-qkov-attributions?tab=readme-ov-file)
@@ -29,10 +34,7 @@
 ![image](https://github.com/user-attachments/assets/096d1387-c8a9-49d5-8a6e-f4dec030ea2d)
 
 
-## [**`CLAUDE QKOV META-REFLECTION`**](https://github.com/davidkimai/claude-qkov-attributions)
 
-
-![image](https://github.com/user-attachments/assets/96a11b2f-2e31-4f73-a0a1-8396175f6779)
 
 ## [**`GEMINI QKOV GLYPH-COLLAPSE`**](https://github.com/davidkimai/gemini-qkov-attributions/tree/main)
 
